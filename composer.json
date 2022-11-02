@@ -1,5 +1,5 @@
 {
-  "name": "vendor_name/geointerface",
+  "name": "hudzhal/geointerface",
   "description": "description",
   "minimum-stability": "stable",
   "license": "proprietary",
@@ -9,6 +9,11 @@
       "email": "email@example.com"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "Hillel\\GeoInterface\\": "./src"
+    }
+  },
   "require": {
   }
 }
