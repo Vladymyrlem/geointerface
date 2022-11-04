@@ -1,7 +1,7 @@
 {
   "name": "hudzhal/geointerface",
   "description": "description",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "proprietary",
   "authors": [
     {
@@ -15,5 +15,6 @@
     }
   },
   "require": {
+    "Hillel\\GeoInterface": "dev-develop"
   }
 }
