@@ -15,6 +15,5 @@
     }
   },
   "require": {
-    "Hillel\\GeoInterface": "dev-develop"
   }
 }
